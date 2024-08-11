@@ -3,7 +3,7 @@
 ## 🛠 Projects
 Here are some of the projects I've worked on:
 
-- **[Accidental Time Travel](link-to-project)**: A text-based adventure game set in Ancient Rome made using the platform Twine.
+- **[Accidental Time Travel](https://github.com/quantumleapquokka/quantumleapquokka/blob/main/Accidental%20Time%20Travel.html)**: A text-based adventure game set in Ancient Rome made using the platform Twine.
 - **[Tartarus:Escape](link-to-project)**: Navigation adventure game where the player goes through the rooms of Tartarus to find the exit back to Earth; made with C++.
 
 ## 💻 Skills
