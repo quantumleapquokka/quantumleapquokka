@@ -15,7 +15,7 @@ These are the programming languages and technologies I'm familiar with:
 My educational background:
 
 - **Computer Science: Game Design**, UC Santa Cruz
-  - Relevant coursework: Programming Abstractions in Python, Foundations of Video Game Design, Object Oriented Programming with C++
+  - Relevant coursework: Programming Abstractions in Python, Foundations of Video Game Design, Object Oriented Programming with C++, Computer Systems and Assembly Language
 
 
 
