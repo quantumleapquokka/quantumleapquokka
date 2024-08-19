@@ -10,6 +10,7 @@ Here are some of the projects I've worked on:
 These are the programming languages and technologies I'm familiar with:
 
 - **Languages**: C, C++, Python, Java
+- **Technologies**: Canva, Adobe Fresco, Microsoft Visual Studio
 
 ## 🎓 Education
 My educational background:
