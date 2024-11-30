@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 ## 💻 Skills
 These are the programming languages and technologies I'm familiar with:
 
-- **Languages**: C, C++, Python, Java
+- **Languages**: C, C++, Python, Java, JavaScript, HTML, CSS
 - **Technologies**: Canva, Adobe Fresco, Microsoft Visual Studio
 
 ## 🎓 Education
