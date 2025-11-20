@@ -3,7 +3,9 @@
 ## 🛠 Projects
 
 Here are some of the projects I've worked on:
-
+- **[Quiz Game](https://github.com/W5-a11y/RC_Project3)**:
+  - **Programming Language/Framework**: CSS, React, Python
+  - **Description**: AI powered daily quiz game that refreshes. Users spin the wheel to determine the topic of their daily 5 quiz questions.
 - **[To-Do List](https://replit.com/@ssiew/TodoList-20?v=1](https://github.com/quantumleapquokka/CISP-400/blob/main/todo.cpp))**:
   - **Programming Language**: C++
   - **Description**: Stores to-do tasks in a dynamic array where the user is able to add tasks, delete tasks, and display the to-do list. When the user quits the program, the task list is saved to a file.
