@@ -1,6 +1,6 @@
 # Hi~ I'm Samantha👋
 
-## 🛠 Projects
+## Projects
 
 Here are some of the projects I've worked on:
 - **[Quiz Game](https://github.com/W5-a11y/RC_Project3)**:
@@ -23,13 +23,13 @@ Here are some of the projects I've worked on:
   - **Description**: Manages and tracks inventory items, allowing users to add, delete, edit, and view item details. It utilizes data structures and random number generation to handle inventory records.
   - **Skills**: OOP, Dynamic Memory Management
 
-## 💻 Skills
+## Skills
 These are the programming languages and technologies I'm familiar with:
 
 - **Languages**: C, C++, Python, Java, JavaScript, HTML, CSS
 - **Technologies**: Canva, Adobe Fresco, Microsoft Visual Studio, Visual Studio Code, GitHub
 
-## 🎓 Education
+## Education
 
 ### University of California, Santa Cruz
 - **Computer Science: Game Design** 
