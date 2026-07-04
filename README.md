@@ -2,6 +2,7 @@
 
 ## Projects
 personal portfolio: https://quantumleapquokka.github.io/portfolio
+
 **Here are some of the projects I've worked on:**
   - **[Quiz Game](https://github.com/W5-a11y/RC_Project3)**:
     - **Programming Language/Framework**: CSS, React, Python
